@@ -45,7 +45,3 @@
 
 ## Remarques
 - **Points forts** : Analyse détaillée des indicateurs et propositions stratégiques.
-
----
-
-Ce `README.md` fournit un aperçu structuré du projet, de ses objectifs, de sa méthodologie et des résultats obtenus.
